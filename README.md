@@ -1,6 +1,4 @@
 # dotfiles
-![showcase](https://github.com/user-attachments/assets/61fad16b-3e67-4e3d-8fcf-13d3a163f20f)
-
 ## Dependencies
   * waybar
   * swaylock
@@ -19,5 +17,5 @@
 7. sudo mv /home/tinerse/Downloads/sddm.conf.d/ /lib/sddm/
 8. Now all you will need to do is edit your .config/sway/config file to match what your device uses and it should be good!
 
-## Fastfetch
-![fastfetch](https://github.com/user-attachments/assets/08ffe86e-275e-4f34-8045-efee12c4d9aa)
+## Showcase
+![showcase](https://github.com/user-attachments/assets/61fad16b-3e67-4e3d-8fcf-13d3a163f20f)
