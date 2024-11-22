@@ -18,4 +18,4 @@
 8. Now all you will need to do is edit your .config/sway/config file to match what your device uses and it should be good!
 
 ## Showcase
-![showcase](https://github.com/user-attachments/assets/61fad16b-3e67-4e3d-8fcf-13d3a163f20f)
+![showcase_files](https://github.com/user-attachments/assets/629faaeb-d6d4-4882-aa26-cca5c4656d16)
