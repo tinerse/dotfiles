@@ -4,6 +4,14 @@
 
 To install the dotfiles to your Fedora Sway you will need to make sure you have these packages
 
+Dependencies
+  * waybar
+  * swaylock
+  * alacritty
+  * fastfetch
+  * rofi
+  * swaync - https://github.com/ErikReider/SwayNotificationCenter
+
 1. sudo dnf install waybar swaylock alacritty fastfetch rofi
 2. To install swaync you will need to follow the steps here - https://github.com/ErikReider/SwayNotificationCenter
 3. Once everything is installed download this repo and move it to your .config folder
