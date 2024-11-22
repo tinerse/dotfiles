@@ -5,7 +5,7 @@
   * alacritty
   * fastfetch
   * rofi
-  * swaync - https://github.com/ErikReider/SwayNotificationCenter
+  * swaync -> https://github.com/ErikReider/SwayNotificationCenter
 
 ## Installation
 1. sudo dnf install waybar swaylock alacritty fastfetch rofi
